@@ -1,13 +1,7 @@
-# Loan-Prediction-Classification
+# Loan-mount-Prediction-Classification
 A Classification Problem which predicts if a loan will get approved or not.
 
-Dataset-  The data has 615 rows and 13 columns.
-
 Dataset Description-
-
-Variable
-
-Description
 
 Loan_ID - Unique Loan ID
 
